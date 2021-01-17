@@ -1,5 +1,5 @@
 import pandas as pd
-raw_data = pd.read_csv(r"E:\Self-study\Online course\Udemy\Business Intelligence Analyst\S47 _ Integration - Data processing\Absenteeism_data.csv")
+raw_data = pd.read_csv(r"[File path goes here]\Absenteeism_data.csv")
 processed_data = raw_data.copy()
 
 #Setting display options:
