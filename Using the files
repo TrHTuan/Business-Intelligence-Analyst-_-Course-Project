@@ -5,3 +5,7 @@ we're interested in whether an employee is expected to be missing for a specific
 Raw data: the collected raw data can be found in the file 'Absenteeism_data.csv'. This table includes variables that will be the output of the prediction. The goal is to
 transform this set of raw data to a usable one that will be given to data engineers or data scientists so that they can work on a prediction model. The desirable output 
 can be found in the file 'Cleaned_up_date'; and the source code to achieve the outcome can be found in the file 'Processed_data_code.py'.
+
+The role of a business intelligence analyst in this context will involve the clean up of data; as well as the analysis and visualization of the model given by the data engineering
+and scientists team. In other words, the BI analyst isn't resposible for building the prediction model, and is responsible for analysis of the prediction model. From 
+the prediction model, data visualization will be done with Tableau and from there, further analysis and comments on the data set can be made.
