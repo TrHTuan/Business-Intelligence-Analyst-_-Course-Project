@@ -1,0 +1,7 @@
+# Business-Intelligence-Analyst-_-Course-Project
+The context of this project: the exercise addresses absenteeism at a company during work time. Particularly, what we're looking into is predicting absenteeism from work, and
+we're interested in whether an employee is expected to be missing for a specific number of hours in a given work day.
+
+Raw data: the collected raw data can be found in the file 'Absenteeism_data.csv'. This table includes variables that will be the output of the prediction. The goal is to
+transform this set of raw data to a usable one that will be given to data engineers or data scientists so that they can work on a prediction model. The desirable output 
+can be found in the file 'Cleaned_up_date'; and the source code to achieve the outcome can be found in the file 'Processed_data_code.py'.
