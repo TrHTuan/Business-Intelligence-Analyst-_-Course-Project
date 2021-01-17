@@ -9,3 +9,6 @@ can be found in the file 'Cleaned_up_date'; and the source code to achieve the o
 The role of a business intelligence analyst in this context will involve the clean up of data; as well as the analysis and visualization of the model given by the data engineering
 and scientists team. In other words, the BI analyst isn't resposible for building the prediction model, and is responsible for analysis of the prediction model. From 
 the prediction model, data visualization will be done with Tableau and from there, further analysis and comments on the data set can be made.
+
+Note: the source code isn't guaranteed to work on your device. One big reason is the file path as I have removed the original file path in my source course :P obviously.
+However, just save everything into a folder, copy that folder path and replace it in the source code and you should be good to go.
